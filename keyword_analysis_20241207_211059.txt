@@ -1,0 +1,10 @@
+notre: 4
+dame: 4
+syrian: 4
+damascus: 4
+rebels: 3
+assad: 3
+cathedral: 2
+reopening: 2
+paris: 2
+live: 2
